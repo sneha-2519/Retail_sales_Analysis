@@ -161,7 +161,7 @@ ________________________________________
 # Conclusion:
 This project provided hands-on experience with SQL for database creation, cleaning, and analysis. The queries addressed business questions that offer actionable insights into customer behavior, sales patterns, and product performance.
 ________________________________________
-Future Scope:
+# Future Scope:
 1.	Integrate additional datasets (e.g., promotions, feedback) for deeper analysis.
 2.	Automate reporting using visualization tools like Power BI or Tableau.
 3.	Apply advanced analytics for predictive sales forecasting.
